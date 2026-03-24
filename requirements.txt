@@ -1,0 +1,10 @@
+pandas==2.2.3
+numpy==1.26.4
+psutil==7.0.0
+tqdm==4.67.1
+torch==2.6.0+cu124
+scikit-learn==1.2.2
+lightgbm==4.5.0
+scipy==1.15.3
+matplotlib==3.7.2
+seaborn==0.12.2
